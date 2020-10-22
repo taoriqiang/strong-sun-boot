@@ -1,3 +1,0 @@
-function subDome() {
-    alert("------submit-----")
-}
